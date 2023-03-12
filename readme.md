@@ -12,12 +12,12 @@
 
 - MongoDB
 - Node.js 10+
-- Command Line Tools
-- Visual Studio Code
+- Postman
+-
 
-## Installation
 
-##### # Get the latest snapshot
+
+##### # Get the host
 
 `git clone https://github.com/Subhankr12/hospital-api.git myproject`
 
