@@ -33,7 +33,7 @@
 
 `npm start`
 
-#### # The Server should running at: http://localhost:5500/
+#### # The Server should running at: http://localhost:5002/
 
 ## Folder Structure
 
