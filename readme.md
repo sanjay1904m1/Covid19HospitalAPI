@@ -33,8 +33,6 @@
 
 `npm start`
 
-#### # The Server should running at: http://localhost:5002/
-
 ## Folder Structure
 
 app <br>
@@ -50,14 +48,12 @@ app <br>
 │ --- ├── patient.js <br>
 │ --- └── report.js <br>
 ├── routes <br>
-│ --- ├── api <br>
-│ ----│ -- ├── v1 <br>
-│ --- │ -- │ -- ├── doctors.js <br>
-│ --- │ -- │ -- ├── index.js <br>
-│ --- │ -- │ -- ├── patients.js <br>
-│ --- │ -- │ -- └── reports.js <br>
-│ ----│ -- └── index.js <br>
-│ --- └── index.js <br>
+│  --- ├── doctors.js <br>
+│  --- ├── index.js <br>
+│  --- ├── patients.js <br>
+│  --- └── reports.js <br>
+│  --- └── index.js <br>
+│
 ├── server.js <br>
 ├── package.json <br>
 ├── package-lock.json <br>
