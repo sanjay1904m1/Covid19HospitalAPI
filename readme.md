@@ -56,5 +56,4 @@ app <br>
 │
 ├── index.js <br>
 ├── package.json <br>
-├── package-lock.json <br>
-└── readme.md <br>
+└── package-lock.json 
