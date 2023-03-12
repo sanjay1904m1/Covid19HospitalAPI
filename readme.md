@@ -54,7 +54,7 @@ app <br>
 │  --- └── reports.js <br>
 │  --- └── index.js <br>
 │
-├── server.js <br>
+├── index.js <br>
 ├── package.json <br>
 ├── package-lock.json <br>
 └── readme.md <br>
