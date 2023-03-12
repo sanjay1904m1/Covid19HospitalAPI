@@ -6,32 +6,10 @@
 
 1.  Nodejs
 2.  Express
-3.  MongoDB for database
-
-## Prerequisites
-
-- MongoDB
-- Node.js 10+
-- Postman
--
+3.  Mongoose Atlas
 
 
 
-##### # Get the host
-
-`git clone https://github.com/Subhankr12/hospital-api.git myproject`
-
-##### # Change directory
-
-`cd myproject`
-
-##### # Install NPM dependencies
-
-`npm install`
-
-##### # Then simply start your app
-
-`npm start`
 
 ## Folder Structure
 
